@@ -4,7 +4,7 @@
 
 > 一个透明、可复核的 Excel 模型：记录 Codex Reset，计算周周期重新锚定带来的时间收益，并把它换算成等效周额度与估算价值。
 
-[English](./README.md) · [下载中文版 Excel](./codex-reset-benefit-calculator-cn.xlsx) · [下载 English Excel](./codex-reset-benefit-calculator-en.xlsx)
+[English](./README.md) · [下载中文版 Excel](https://github.com/Nevoria/codex-reset-benefit-calculator/releases/latest/download/codex-reset-benefit-calculator-cn.xlsx) · [下载 English Excel](https://github.com/Nevoria/codex-reset-benefit-calculator/releases/latest/download/codex-reset-benefit-calculator-en.xlsx)
 
 ![Excel](https://img.shields.io/badge/Excel-Tool-217346?logo=microsoft-excel&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![无需安装](https://img.shields.io/badge/无需安装-直接使用-brightgreen) ![离线模型](https://img.shields.io/badge/模型-离线计算-5B8FF9)
 
