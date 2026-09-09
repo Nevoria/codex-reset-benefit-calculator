@@ -4,7 +4,7 @@
 
 > A transparent, auditable Excel model for tracking Codex resets, measuring weekly-cycle re-anchoring, and estimating time-equivalent weekly benefit.
 
-[简体中文](./README_CN.md) · [Download Chinese workbook](./codex-reset-benefit-calculator-cn.xlsx) · [Download English workbook](./codex-reset-benefit-calculator-en.xlsx)
+[简体中文](./README_CN.md) · [Download Chinese workbook](https://github.com/Nevoria/codex-reset-benefit-calculator/releases/latest/download/codex-reset-benefit-calculator-cn.xlsx) · [Download English workbook](https://github.com/Nevoria/codex-reset-benefit-calculator/releases/latest/download/codex-reset-benefit-calculator-en.xlsx)
 
 ![Excel](https://img.shields.io/badge/Excel-Tool-217346?logo=microsoft-excel&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![No Installation](https://img.shields.io/badge/Installation-Not%20Required-brightgreen) ![Offline Model](https://img.shields.io/badge/Model-Offline-5B8FF9)
 
